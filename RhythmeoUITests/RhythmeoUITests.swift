@@ -1,14 +1,14 @@
 //
-//  Rhythmeo_3UITests.swift
-//  Rhythmeo 3UITests
+//  RhythmeoUITests.swift
+//  RhythmeoUITests
 //
-//  Created by Andrew Istoc on 08/01/2019.
+//  Created by Andrew Istoc on 09/01/2019.
 //  Copyright © 2019 Andrew Istoc. All rights reserved.
 //
 
 import XCTest
 
-class Rhythmeo_3UITests: XCTestCase {
+class RhythmeoUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
